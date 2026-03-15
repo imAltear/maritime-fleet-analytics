@@ -18,6 +18,8 @@ This project demonstrates how Excel analytics dashboards can support **data-driv
 
 ![Dashboard](Maritime_Fleet_Dashboard.png)
 
+📂 **Open Interactive Dashboard (Excel File):**  
+👉 [Click here to view or download the Maritime Fleet Dashboard](Maritime_Fleet_Analytics.xlsx)
 ---
 
 ## ⚙️ Tools & Techniques Used
